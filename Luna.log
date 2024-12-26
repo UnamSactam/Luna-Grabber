@@ -1,0 +1,1172 @@
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,884 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,884 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,884 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,885 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,885 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,885 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,885 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,885 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,885 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,886 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,886 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,887 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,887 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,887 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,887 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,887 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,887 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,887 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,887 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,888 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,888 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,888 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,888 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:26:54,888 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:335] - 2024-12-26 15:27:29,965 - ERROR - Invalid webhook format: https://fdg
+[builder.py:335] - 2024-12-26 15:27:31,124 - ERROR - Invalid webhook format: https://fdg
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,664 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,664 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,664 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,665 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,665 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,665 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,665 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,665 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,665 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,666 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,666 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,666 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,666 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,666 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,666 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,666 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,666 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,666 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,666 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,666 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,667 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,667 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,667 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:36:15,667 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:335] - 2024-12-26 15:36:38,615 - ERROR - Invalid webhook format: https://dfg/sdgf
+[builder.py:505] - 2024-12-26 15:36:45,291 - INFO - Retrieved filename: nice
+[builder.py:335] - 2024-12-26 15:36:45,291 - ERROR - Invalid webhook format: https://dfg/sdgf
+[builder.py:505] - 2024-12-26 15:36:45,343 - INFO - Retrieved filename: nice
+[builder.py:564] - 2024-12-26 15:36:45,345 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 15:36:45,346 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:482] - 2024-12-26 15:36:45,346 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:564] - 2024-12-26 15:36:45,870 - INFO - Successfully changed config
+[builder.py:692] - 2024-12-26 15:36:45,872 - ERROR - Nuitka does not support Python 3.12
+[builder.py:762] - 2024-12-26 15:36:46,542 - INFO - Successfully removed file: luna.aes
+[builder.py:762] - 2024-12-26 15:36:46,543 - INFO - Successfully removed file: loader-o.py
+[builder.py:505] - 2024-12-26 15:36:51,760 - INFO - Retrieved filename: nice
+[builder.py:335] - 2024-12-26 15:36:51,760 - ERROR - Invalid webhook format: https://dfg/sdgf
+[builder.py:505] - 2024-12-26 15:36:51,816 - INFO - Retrieved filename: nice
+[builder.py:564] - 2024-12-26 15:36:51,817 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 15:36:51,818 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 15:36:52,123 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 15:36:52,126 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 15:36:52,568 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 15:36:52,569 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 15:36:53,383 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T143517Z&X-Amz-Expires=300&X-Amz-Signature=ad124f183dc972dcbc84b49aa9cda7ee1846384c6418888f0cfef69542273265&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:852] - 2024-12-26 15:37:35,390 - INFO - Removing MetaData
+[builder.py:870] - 2024-12-26 15:37:35,467 - INFO - Renaming Entry Point
+[builder.py:884] - 2024-12-26 15:37:35,535 - INFO - Adding Certificate
+[builder.py:686] - 2024-12-26 15:37:35,579 - INFO - Successfully compiled nice.exe with pyinstaller
+[builder.py:753] - 2024-12-26 15:37:35,684 - INFO - Successfully removed directory: ./build
+[builder.py:762] - 2024-12-26 15:37:35,685 - INFO - Successfully removed file: ./nice.exe.spec
+[builder.py:762] - 2024-12-26 15:37:35,685 - INFO - Successfully removed file: luna.aes
+[builder.py:762] - 2024-12-26 15:37:35,685 - INFO - Successfully removed file: loader-o.py
+[builder.py:762] - 2024-12-26 15:37:35,686 - INFO - Successfully removed file: ./tools/upx.exe
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,541 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,542 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,542 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,542 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,542 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,542 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,542 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,542 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,542 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,543 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,543 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,543 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,543 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,543 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,543 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,543 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,543 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,543 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,543 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,543 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,544 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,544 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,544 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:45:22,544 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:335] - 2024-12-26 15:45:26,882 - ERROR - Invalid webhook format: 
+[builder.py:505] - 2024-12-26 15:45:39,367 - INFO - Retrieved filename: st
+[builder.py:335] - 2024-12-26 15:45:39,367 - ERROR - Invalid webhook format: https://
+[builder.py:505] - 2024-12-26 15:45:39,413 - INFO - Retrieved filename: st
+[builder.py:564] - 2024-12-26 15:45:39,415 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 15:45:39,416 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 15:45:39,703 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 15:45:39,706 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 15:45:40,215 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 15:45:40,216 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 15:45:40,888 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T144552Z&X-Amz-Expires=300&X-Amz-Signature=d73a8819e013e50da467bc59b1386d55fe96866c9a0dd4c233bb46bf2160fb82&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:852] - 2024-12-26 15:46:14,016 - INFO - Removing MetaData
+[builder.py:870] - 2024-12-26 15:46:14,072 - INFO - Renaming Entry Point
+[builder.py:884] - 2024-12-26 15:46:14,126 - INFO - Adding Certificate
+[builder.py:686] - 2024-12-26 15:46:14,165 - INFO - Successfully compiled st.exe with pyinstaller
+[builder.py:753] - 2024-12-26 15:46:14,216 - INFO - Successfully removed directory: ./build
+[builder.py:762] - 2024-12-26 15:46:14,216 - INFO - Successfully removed file: ./st.exe.spec
+[builder.py:762] - 2024-12-26 15:46:14,217 - INFO - Successfully removed file: loader-o.py
+[builder.py:762] - 2024-12-26 15:46:14,217 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:762] - 2024-12-26 15:46:14,217 - INFO - Successfully removed file: luna.aes
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,293 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,293 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,293 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,294 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,294 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,294 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,294 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,294 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,294 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,294 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,294 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,294 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,294 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,294 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,295 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,295 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,295 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,295 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,295 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,295 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,295 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,295 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,295 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:49:12,295 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 15:49:33,121 - INFO - Retrieved filename: testt
+[builder.py:335] - 2024-12-26 15:49:33,122 - ERROR - Invalid webhook format: gfh
+[builder.py:505] - 2024-12-26 15:49:33,157 - INFO - Retrieved filename: testt
+[builder.py:564] - 2024-12-26 15:49:33,158 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 15:49:33,159 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 15:49:33,430 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 15:49:33,433 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 15:49:33,779 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 15:49:33,780 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 15:49:34,293 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T144946Z&X-Amz-Expires=300&X-Amz-Signature=0598d6db74ae4e0f021c3aa38c28333ac3900ffceb41c2ae2b8bde962cbc3ede&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:852] - 2024-12-26 15:50:10,803 - INFO - Removing MetaData
+[builder.py:870] - 2024-12-26 15:50:10,872 - INFO - Renaming Entry Point
+[builder.py:884] - 2024-12-26 15:50:10,925 - INFO - Adding Certificate
+[builder.py:686] - 2024-12-26 15:50:10,973 - INFO - Successfully compiled testt.exe with pyinstaller
+[builder.py:753] - 2024-12-26 15:50:11,096 - INFO - Successfully removed directory: ./build
+[builder.py:762] - 2024-12-26 15:50:11,096 - INFO - Successfully removed file: luna.aes
+[builder.py:762] - 2024-12-26 15:50:11,096 - INFO - Successfully removed file: loader-o.py
+[builder.py:762] - 2024-12-26 15:50:11,097 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:762] - 2024-12-26 15:50:11,097 - INFO - Successfully removed file: ./testt.exe.spec
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,522 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,522 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,522 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,522 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,522 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,522 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,523 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,523 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,523 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,523 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,523 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,523 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,523 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,523 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,523 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,523 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,523 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,524 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,524 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,524 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,524 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,524 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,524 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:52:59,524 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 15:53:06,582 - INFO - Retrieved filename: sdf
+[builder.py:335] - 2024-12-26 15:53:06,582 - ERROR - Invalid webhook format: sdf
+[builder.py:505] - 2024-12-26 15:53:06,627 - INFO - Retrieved filename: sdf
+[builder.py:564] - 2024-12-26 15:53:06,628 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 15:53:06,629 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 15:53:06,915 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 15:53:06,918 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 15:53:07,779 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 15:53:07,780 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 15:53:08,366 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T145321Z&X-Amz-Expires=300&X-Amz-Signature=796222418d5830b5122da4d71ae38edae76b50b2d4735a59b56297fcd0749c32&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:852] - 2024-12-26 15:53:44,986 - INFO - Removing MetaData
+[builder.py:870] - 2024-12-26 15:53:45,056 - INFO - Renaming Entry Point
+[builder.py:884] - 2024-12-26 15:53:45,100 - INFO - Adding Certificate
+[builder.py:686] - 2024-12-26 15:53:45,126 - INFO - Successfully compiled sdf.exe with pyinstaller
+[builder.py:753] - 2024-12-26 15:53:45,864 - INFO - Successfully removed directory: ./build
+[builder.py:762] - 2024-12-26 15:53:45,865 - INFO - Successfully removed file: loader-o.py
+[builder.py:762] - 2024-12-26 15:53:45,865 - INFO - Successfully removed file: ./sdf.exe.spec
+[builder.py:762] - 2024-12-26 15:53:45,865 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:762] - 2024-12-26 15:53:45,866 - INFO - Successfully removed file: luna.aes
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,176 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,176 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,176 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,177 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,177 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,177 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,177 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,177 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,177 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,178 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,178 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,178 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,178 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,178 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,178 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,178 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,178 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,179 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,179 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,179 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,179 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,179 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,179 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 15:57:43,179 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 15:57:52,208 - INFO - Retrieved filename: fgh
+[builder.py:335] - 2024-12-26 15:57:52,208 - ERROR - Invalid webhook format: fgh
+[builder.py:505] - 2024-12-26 15:57:52,271 - INFO - Retrieved filename: fgh
+[builder.py:564] - 2024-12-26 15:57:52,273 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 15:57:52,274 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:482] - 2024-12-26 15:57:52,274 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:564] - 2024-12-26 15:57:52,686 - INFO - Successfully changed config
+[builder.py:692] - 2024-12-26 15:57:52,687 - ERROR - Nuitka does not support Python 3.12
+[builder.py:762] - 2024-12-26 15:57:53,660 - INFO - Successfully removed file: luna.aes
+[builder.py:762] - 2024-12-26 15:57:53,661 - INFO - Successfully removed file: loader-o.py
+[builder.py:505] - 2024-12-26 15:58:14,658 - INFO - Retrieved filename: fgh
+[builder.py:335] - 2024-12-26 15:58:14,658 - ERROR - Invalid webhook format: fgh
+[builder.py:505] - 2024-12-26 15:58:14,709 - INFO - Retrieved filename: fgh
+[builder.py:564] - 2024-12-26 15:58:14,711 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 15:58:14,711 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 15:58:15,062 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 15:58:15,065 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 15:58:15,684 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 15:58:15,685 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 15:58:16,553 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T145824Z&X-Amz-Expires=300&X-Amz-Signature=8f98e8f6ad0f0b7db4234075600bbf758a328395801ae56ec2b14fb6bd7b4820&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:852] - 2024-12-26 15:58:54,451 - INFO - Removing MetaData
+[builder.py:870] - 2024-12-26 15:58:54,507 - INFO - Renaming Entry Point
+[builder.py:884] - 2024-12-26 15:58:54,537 - INFO - Adding Certificate
+[builder.py:686] - 2024-12-26 15:58:54,577 - INFO - Successfully compiled fgh.exe with pyinstaller
+[builder.py:753] - 2024-12-26 15:58:54,951 - INFO - Successfully removed directory: ./build
+[builder.py:762] - 2024-12-26 15:58:54,952 - INFO - Successfully removed file: ./fgh.exe.spec
+[builder.py:762] - 2024-12-26 15:58:54,952 - INFO - Successfully removed file: luna.aes
+[builder.py:762] - 2024-12-26 15:58:54,952 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:762] - 2024-12-26 15:58:54,952 - INFO - Successfully removed file: loader-o.py
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,549 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,549 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,549 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,549 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,549 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,549 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,549 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,549 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,549 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,549 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,549 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,549 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,550 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,550 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,550 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,550 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,550 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,550 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,550 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,550 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,550 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,550 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,550 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:02:04,550 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 16:02:10,301 - INFO - Retrieved filename: df
+[builder.py:335] - 2024-12-26 16:02:10,301 - ERROR - Invalid webhook format: xcv
+[builder.py:505] - 2024-12-26 16:02:10,332 - INFO - Retrieved filename: df
+[builder.py:564] - 2024-12-26 16:02:10,333 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:02:10,333 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:482] - 2024-12-26 16:02:10,333 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:564] - 2024-12-26 16:02:10,526 - INFO - Successfully changed config
+[builder.py:692] - 2024-12-26 16:02:10,526 - ERROR - Nuitka does not support Python 3.12
+[builder.py:762] - 2024-12-26 16:02:10,910 - INFO - Successfully removed file: loader-o.py
+[builder.py:762] - 2024-12-26 16:02:10,910 - INFO - Successfully removed file: luna.aes
+[builder.py:505] - 2024-12-26 16:02:14,705 - INFO - Retrieved filename: df
+[builder.py:335] - 2024-12-26 16:02:14,705 - ERROR - Invalid webhook format: xcv
+[builder.py:505] - 2024-12-26 16:02:14,731 - INFO - Retrieved filename: df
+[builder.py:564] - 2024-12-26 16:02:14,733 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:02:14,733 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 16:02:14,960 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 16:02:14,962 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 16:02:15,534 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 16:02:15,535 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 16:02:16,199 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T150234Z&X-Amz-Expires=300&X-Amz-Signature=bc6b3fede4f9060aa2cf8a15c2269c6948bf68aee8d1714a74a9e0d5999bf401&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:852] - 2024-12-26 16:02:46,964 - INFO - Removing MetaData
+[builder.py:742] - 2024-12-26 16:02:47,060 - ERROR - Error with compiling file: [Errno 13] Permission denied: './df.exe'
+[builder.py:753] - 2024-12-26 16:02:47,251 - INFO - Successfully removed directory: ./build
+[builder.py:762] - 2024-12-26 16:02:47,252 - INFO - Successfully removed file: loader-o.py
+[builder.py:762] - 2024-12-26 16:02:47,252 - INFO - Successfully removed file: ./df.exe.spec
+[builder.py:762] - 2024-12-26 16:02:47,252 - INFO - Successfully removed file: luna.aes
+[builder.py:762] - 2024-12-26 16:02:47,253 - INFO - Successfully removed file: ./tools/upx.exe
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,428 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,429 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,429 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,429 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,429 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,429 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,430 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,430 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,430 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,430 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,430 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,430 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,430 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,430 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,431 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,431 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,431 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,431 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,431 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,431 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,431 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,431 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,432 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:03:46,432 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 16:04:05,672 - INFO - Retrieved filename: soedghsedoigh
+[builder.py:335] - 2024-12-26 16:04:05,673 - ERROR - Invalid webhook format: https://
+[builder.py:505] - 2024-12-26 16:04:05,746 - INFO - Retrieved filename: soedghsedoigh
+[builder.py:564] - 2024-12-26 16:04:05,748 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:04:05,749 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 16:04:06,169 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 16:04:06,173 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 16:04:06,947 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 16:04:06,948 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 16:04:08,201 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T150418Z&X-Amz-Expires=300&X-Amz-Signature=aa6ca5d006b639e420c2685b73e63977365679c4e3eb5c12186aaf060ec25a8d&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:852] - 2024-12-26 16:04:53,624 - INFO - Removing MetaData
+[builder.py:742] - 2024-12-26 16:04:53,823 - ERROR - Error with compiling file: [Errno 13] Permission denied: './soedghsedoigh.exe'
+[builder.py:753] - 2024-12-26 16:04:54,044 - INFO - Successfully removed directory: ./build
+[builder.py:762] - 2024-12-26 16:04:54,045 - INFO - Successfully removed file: luna.aes
+[builder.py:762] - 2024-12-26 16:04:54,045 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:762] - 2024-12-26 16:04:54,045 - INFO - Successfully removed file: loader-o.py
+[builder.py:762] - 2024-12-26 16:04:54,046 - INFO - Successfully removed file: ./soedghsedoigh.exe.spec
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,548 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,548 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,548 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,548 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,548 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,548 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,548 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,548 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:05:22,549 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 16:05:26,451 - INFO - Retrieved filename: sdfsdf
+[builder.py:335] - 2024-12-26 16:05:26,451 - ERROR - Invalid webhook format: sdf
+[builder.py:505] - 2024-12-26 16:05:26,477 - INFO - Retrieved filename: sdfsdf
+[builder.py:564] - 2024-12-26 16:05:26,477 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:05:26,478 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:482] - 2024-12-26 16:05:26,478 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:564] - 2024-12-26 16:05:26,685 - INFO - Successfully changed config
+[builder.py:692] - 2024-12-26 16:05:26,686 - ERROR - Nuitka does not support Python 3.12
+[builder.py:762] - 2024-12-26 16:05:27,110 - INFO - Successfully removed file: luna.aes
+[builder.py:762] - 2024-12-26 16:05:27,111 - INFO - Successfully removed file: loader-o.py
+[builder.py:505] - 2024-12-26 16:05:45,165 - INFO - Retrieved filename: sdfsdf
+[builder.py:335] - 2024-12-26 16:05:45,166 - ERROR - Invalid webhook format: sdf
+[builder.py:505] - 2024-12-26 16:05:45,213 - INFO - Retrieved filename: sdfsdf
+[builder.py:564] - 2024-12-26 16:05:45,214 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:05:45,215 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 16:05:45,500 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 16:05:45,503 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 16:05:45,980 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 16:05:45,981 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 16:05:46,867 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T150418Z&X-Amz-Expires=300&X-Amz-Signature=aa6ca5d006b639e420c2685b73e63977365679c4e3eb5c12186aaf060ec25a8d&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:852] - 2024-12-26 16:06:24,856 - INFO - Removing MetaData
+[builder.py:870] - 2024-12-26 16:06:24,959 - INFO - Renaming Entry Point
+[builder.py:884] - 2024-12-26 16:06:25,092 - INFO - Adding Certificate
+[builder.py:686] - 2024-12-26 16:06:25,140 - INFO - Successfully compiled sdfsdf.exe with pyinstaller
+[builder.py:753] - 2024-12-26 16:06:25,334 - INFO - Successfully removed directory: ./build
+[builder.py:762] - 2024-12-26 16:06:25,334 - INFO - Successfully removed file: luna.aes
+[builder.py:762] - 2024-12-26 16:06:25,335 - INFO - Successfully removed file: ./sdfsdf.exe.spec
+[builder.py:762] - 2024-12-26 16:06:25,335 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:762] - 2024-12-26 16:06:25,335 - INFO - Successfully removed file: loader-o.py
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,309 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,309 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,309 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,309 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,309 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,309 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,309 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,309 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,309 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,309 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,310 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,310 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,310 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,310 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,310 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,310 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,310 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,310 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,310 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,310 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,310 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,310 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,311 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:09:13,311 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 16:09:19,586 - INFO - Retrieved filename: cvbcvb
+[builder.py:335] - 2024-12-26 16:09:19,586 - ERROR - Invalid webhook format: bvc
+[builder.py:505] - 2024-12-26 16:09:19,625 - INFO - Retrieved filename: cvbcvb
+[builder.py:564] - 2024-12-26 16:09:19,627 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:09:19,627 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 16:09:19,879 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 16:09:19,882 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 16:09:20,386 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 16:09:20,387 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 16:09:21,069 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T150938Z&X-Amz-Expires=300&X-Amz-Signature=382be494f4c10d5a84fb2d7f3c157a3102f1e5a4f8485c4d1bcff0f9ad30222c&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 16:10:01,190 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 16:10:01,274 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 16:10:01,345 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 16:10:01,399 - INFO - Successfully compiled cvbcvb.exe with pyinstaller
+[builder.py:755] - 2024-12-26 16:10:01,639 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 16:10:01,639 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 16:10:01,639 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 16:10:01,640 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 16:10:01,640 - INFO - Successfully removed file: ./cvbcvb.exe.spec
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,751 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,751 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,751 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,751 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,751 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,751 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,752 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,752 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,752 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,752 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,752 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,752 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,752 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,752 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,752 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,752 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,752 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,753 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,753 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,753 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,753 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,753 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,753 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:11:03,753 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 16:11:10,057 - INFO - Retrieved filename: gdfgdfg
+[builder.py:335] - 2024-12-26 16:11:10,058 - ERROR - Invalid webhook format: sdf
+[builder.py:505] - 2024-12-26 16:11:10,098 - INFO - Retrieved filename: gdfgdfg
+[builder.py:564] - 2024-12-26 16:11:10,099 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:11:10,100 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:482] - 2024-12-26 16:11:10,100 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:564] - 2024-12-26 16:11:10,382 - INFO - Successfully changed config
+[builder.py:693] - 2024-12-26 16:11:10,383 - ERROR - Nuitka does not support Python 3.12
+[builder.py:764] - 2024-12-26 16:11:10,947 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 16:11:10,948 - INFO - Successfully removed file: loader-o.py
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,552 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,552 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,552 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,552 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,552 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,552 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,553 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,554 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,554 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,554 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,554 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:11:24,554 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 16:11:29,351 - INFO - Retrieved filename: asdasd
+[builder.py:335] - 2024-12-26 16:11:29,352 - ERROR - Invalid webhook format: asdsad
+[builder.py:505] - 2024-12-26 16:11:29,486 - INFO - Retrieved filename: asdasd
+[builder.py:564] - 2024-12-26 16:11:29,487 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:11:29,488 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:482] - 2024-12-26 16:11:29,488 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:564] - 2024-12-26 16:11:29,695 - INFO - Successfully changed config
+[builder.py:693] - 2024-12-26 16:11:29,696 - ERROR - Nuitka does not support Python 3.12
+[builder.py:764] - 2024-12-26 16:11:30,146 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 16:11:30,146 - INFO - Successfully removed file: loader-o.py
+[builder.py:505] - 2024-12-26 16:11:33,499 - INFO - Retrieved filename: asdasd
+[builder.py:335] - 2024-12-26 16:11:33,499 - ERROR - Invalid webhook format: asdsad
+[builder.py:505] - 2024-12-26 16:11:33,542 - INFO - Retrieved filename: asdasd
+[builder.py:564] - 2024-12-26 16:11:33,543 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:11:33,544 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 16:11:33,777 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 16:11:33,779 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 16:11:34,098 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 16:11:34,099 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 16:11:34,564 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T151151Z&X-Amz-Expires=300&X-Amz-Signature=a8531665b8a7860367862dcfa17d3e75a5ed06f1dfc5361e87783307aeb92955&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 16:11:35,234 - INFO - Removing MetaData
+[builder.py:744] - 2024-12-26 16:11:35,235 - ERROR - Error with compiling file: [Errno 2] No such file or directory: './asdasd.exe'
+[builder.py:764] - 2024-12-26 16:11:35,768 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 16:11:35,769 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 16:11:35,769 - INFO - Successfully removed file: loader-o.py
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,614 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,614 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,614 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,614 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,614 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,614 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,615 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,615 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,615 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,615 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,615 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,615 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,615 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,615 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,616 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,616 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,616 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,616 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,616 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,616 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,616 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,616 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,616 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:12:22,616 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 16:12:29,547 - INFO - Retrieved filename: dfgdfg
+[builder.py:335] - 2024-12-26 16:12:29,547 - ERROR - Invalid webhook format: dfg
+[builder.py:505] - 2024-12-26 16:12:29,606 - INFO - Retrieved filename: dfgdfg
+[builder.py:564] - 2024-12-26 16:12:29,609 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:12:29,610 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:482] - 2024-12-26 16:12:29,611 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:564] - 2024-12-26 16:12:29,954 - INFO - Successfully changed config
+[builder.py:693] - 2024-12-26 16:12:29,955 - ERROR - Nuitka does not support Python 3.12
+[builder.py:764] - 2024-12-26 16:12:30,809 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 16:12:30,810 - INFO - Successfully removed file: luna.aes
+[builder.py:505] - 2024-12-26 16:12:42,539 - INFO - Retrieved filename: dfgdfg
+[builder.py:335] - 2024-12-26 16:12:42,539 - ERROR - Invalid webhook format: dfg
+[builder.py:505] - 2024-12-26 16:12:42,605 - INFO - Retrieved filename: dfgdfg
+[builder.py:564] - 2024-12-26 16:12:42,607 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:12:42,609 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 16:12:43,025 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 16:12:43,027 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 16:12:43,597 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 16:12:43,598 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 16:12:44,339 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T151151Z&X-Amz-Expires=300&X-Amz-Signature=a8531665b8a7860367862dcfa17d3e75a5ed06f1dfc5361e87783307aeb92955&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 16:13:20,784 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 16:13:20,872 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 16:13:20,952 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 16:13:21,164 - INFO - Successfully compiled dfgdfg.exe with pyinstaller
+[builder.py:755] - 2024-12-26 16:13:21,324 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 16:13:21,324 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 16:13:21,325 - INFO - Successfully removed file: ./dfgdfg.exe.spec
+[builder.py:764] - 2024-12-26 16:13:21,325 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 16:13:21,325 - INFO - Successfully removed file: luna.aes
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,302 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,302 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,302 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,303 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,303 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,304 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,304 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,305 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,305 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,305 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,305 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,305 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,305 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,305 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,306 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,306 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,306 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,306 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,306 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,306 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,306 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,306 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,307 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:14:46,307 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:502] - 2024-12-26 16:14:50,472 - INFO - Retrieved filename: test-eGufT
+[builder.py:335] - 2024-12-26 16:14:50,472 - ERROR - Invalid webhook format: 234
+[builder.py:502] - 2024-12-26 16:14:50,528 - INFO - Retrieved filename: test-WmSUb
+[builder.py:564] - 2024-12-26 16:14:50,530 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:14:50,531 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:482] - 2024-12-26 16:14:50,531 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:564] - 2024-12-26 16:14:50,871 - INFO - Successfully changed config
+[builder.py:693] - 2024-12-26 16:14:50,873 - ERROR - Nuitka does not support Python 3.12
+[builder.py:764] - 2024-12-26 16:14:51,630 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 16:14:51,630 - INFO - Successfully removed file: loader-o.py
+[builder.py:505] - 2024-12-26 16:14:54,299 - INFO - Retrieved filename: 34
+[builder.py:335] - 2024-12-26 16:14:54,299 - ERROR - Invalid webhook format: 234
+[builder.py:505] - 2024-12-26 16:14:54,366 - INFO - Retrieved filename: 34
+[builder.py:564] - 2024-12-26 16:14:54,368 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:14:54,369 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 16:14:54,798 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 16:14:54,801 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 16:14:55,809 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 16:14:55,810 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 16:14:56,485 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T151502Z&X-Amz-Expires=300&X-Amz-Signature=6b0d841173c1c7e83597d1cbe066b59a26b899c3afbc25e82a229fcce7482262&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 16:15:33,847 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 16:15:33,949 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 16:15:34,011 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 16:15:34,078 - INFO - Successfully compiled 34.exe with pyinstaller
+[builder.py:755] - 2024-12-26 16:15:34,327 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 16:15:34,328 - INFO - Successfully removed file: ./34.exe.spec
+[builder.py:764] - 2024-12-26 16:15:34,328 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 16:15:34,328 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 16:15:34,328 - INFO - Successfully removed file: loader-o.py
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,865 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,866 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,866 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,866 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,866 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,866 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,866 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,866 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,866 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:16:40,867 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 16:16:44,164 - INFO - Retrieved filename: dsgf
+[builder.py:335] - 2024-12-26 16:16:44,164 - ERROR - Invalid webhook format: dsgf
+[builder.py:505] - 2024-12-26 16:16:44,205 - INFO - Retrieved filename: dsgf
+[builder.py:564] - 2024-12-26 16:16:44,206 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:16:44,206 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:482] - 2024-12-26 16:16:44,206 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:564] - 2024-12-26 16:16:44,514 - INFO - Successfully changed config
+[builder.py:693] - 2024-12-26 16:16:44,515 - ERROR - Nuitka does not support Python 3.12
+[builder.py:764] - 2024-12-26 16:16:45,239 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 16:16:45,240 - INFO - Successfully removed file: luna.aes
+[builder.py:505] - 2024-12-26 16:16:49,826 - INFO - Retrieved filename: dsgf
+[builder.py:335] - 2024-12-26 16:16:49,826 - ERROR - Invalid webhook format: dsgf
+[builder.py:505] - 2024-12-26 16:16:49,874 - INFO - Retrieved filename: dsgf
+[builder.py:564] - 2024-12-26 16:16:49,875 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:16:49,876 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 16:16:50,242 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 16:16:50,245 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 16:16:50,913 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 16:16:50,915 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 16:16:53,227 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T151725Z&X-Amz-Expires=300&X-Amz-Signature=b2bf1f976a34d4f770b5b22ae2ee36c6c85e2d182d4940ee75c6448a5dddb40c&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 16:17:50,409 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 16:17:50,902 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 16:17:51,524 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 16:17:51,748 - INFO - Successfully compiled dsgf.exe with pyinstaller
+[builder.py:755] - 2024-12-26 16:17:52,107 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 16:17:52,108 - INFO - Successfully removed file: ./dsgf.exe.spec
+[builder.py:764] - 2024-12-26 16:17:52,108 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 16:17:52,109 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 16:17:52,109 - INFO - Successfully removed file: luna.aes
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,546 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,547 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,547 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,547 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,547 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,547 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,547 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,547 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,547 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,549 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,549 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,550 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,550 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,550 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,551 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,551 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,551 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,551 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,551 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,552 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,552 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,552 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,553 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 16:59:47,553 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 16:59:57,306 - INFO - Retrieved filename: u
+[builder.py:335] - 2024-12-26 16:59:57,306 - ERROR - Invalid webhook format: 9876
+[builder.py:505] - 2024-12-26 16:59:57,347 - INFO - Retrieved filename: u
+[builder.py:564] - 2024-12-26 16:59:57,349 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 16:59:57,350 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:482] - 2024-12-26 16:59:57,350 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:564] - 2024-12-26 16:59:57,754 - INFO - Successfully changed config
+[builder.py:693] - 2024-12-26 16:59:57,756 - ERROR - Nuitka does not support Python 3.12
+[builder.py:764] - 2024-12-26 16:59:58,361 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 16:59:58,361 - INFO - Successfully removed file: luna.aes
+[builder.py:505] - 2024-12-26 17:00:02,279 - INFO - Retrieved filename: u
+[builder.py:335] - 2024-12-26 17:00:02,279 - ERROR - Invalid webhook format: 9876
+[builder.py:505] - 2024-12-26 17:00:02,321 - INFO - Retrieved filename: u
+[builder.py:564] - 2024-12-26 17:00:02,322 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:00:02,323 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 17:00:02,641 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 17:00:02,646 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 17:00:03,336 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 17:00:03,337 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 17:00:04,258 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T160016Z&X-Amz-Expires=300&X-Amz-Signature=d91da4151c5d1da14ea97a422fd0a98ce4a609203abca7ed2bb0bd49e3c86eae&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 17:00:54,921 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 17:00:55,041 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 17:00:55,107 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 17:00:55,168 - INFO - Successfully compiled u.exe with pyinstaller
+[builder.py:755] - 2024-12-26 17:00:55,373 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 17:00:55,374 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:00:55,375 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 17:00:55,375 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 17:00:55,375 - INFO - Successfully removed file: ./u.exe.spec
+[builder.py:505] - 2024-12-26 17:01:52,197 - INFO - Retrieved filename: u
+[builder.py:335] - 2024-12-26 17:01:52,197 - ERROR - Invalid webhook format: 9876
+[builder.py:505] - 2024-12-26 17:01:52,296 - INFO - Retrieved filename: u
+[builder.py:564] - 2024-12-26 17:01:52,297 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:01:52,298 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 17:01:52,641 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 17:01:52,643 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 17:01:53,178 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 17:01:53,179 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 17:01:54,034 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T160016Z&X-Amz-Expires=300&X-Amz-Signature=d91da4151c5d1da14ea97a422fd0a98ce4a609203abca7ed2bb0bd49e3c86eae&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 17:02:42,141 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 17:02:42,210 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 17:02:42,282 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 17:02:42,325 - INFO - Successfully compiled u.exe with pyinstaller
+[builder.py:755] - 2024-12-26 17:02:42,481 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 17:02:42,481 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:02:42,482 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 17:02:42,482 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 17:02:42,482 - INFO - Successfully removed file: ./u.exe.spec
+[builder.py:505] - 2024-12-26 17:03:59,287 - INFO - Retrieved filename: u
+[builder.py:335] - 2024-12-26 17:03:59,288 - ERROR - Invalid webhook format: 9876
+[builder.py:505] - 2024-12-26 17:04:00,975 - INFO - Retrieved filename: u
+[builder.py:564] - 2024-12-26 17:04:00,977 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:04:00,977 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 17:04:01,840 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 17:04:01,841 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 17:04:02,297 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 17:04:02,298 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 17:04:03,231 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T160244Z&X-Amz-Expires=300&X-Amz-Signature=2a417262aad4828ddb20b846b825f9522af0380a6ab5ccb82e9414ee760eb3b0&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 17:04:52,556 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 17:04:52,612 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 17:04:52,677 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 17:04:52,715 - INFO - Successfully compiled u.exe with pyinstaller
+[builder.py:755] - 2024-12-26 17:04:53,051 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 17:04:53,052 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:04:53,052 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 17:04:53,053 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 17:04:53,053 - INFO - Successfully removed file: ./u.exe.spec
+[builder.py:505] - 2024-12-26 17:06:19,472 - INFO - Retrieved filename: u
+[builder.py:335] - 2024-12-26 17:06:19,472 - ERROR - Invalid webhook format: 9876
+[builder.py:505] - 2024-12-26 17:06:19,558 - INFO - Retrieved filename: u
+[builder.py:564] - 2024-12-26 17:06:19,562 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:06:19,563 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 17:06:20,425 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 17:06:20,429 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 17:06:21,148 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 17:06:21,150 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 17:06:22,242 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T160635Z&X-Amz-Expires=300&X-Amz-Signature=f0842c70715d8c3fab8d32662ee1ff0ec1539f9f10c5fe1da28e99a6248277ee&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 17:07:15,877 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 17:07:15,949 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 17:07:15,993 - INFO - Adding Certificate
+[builder.py:744] - 2024-12-26 17:07:16,061 - ERROR - Error with compiling file: [Errno 13] Permission denied: './u.exe'
+[builder.py:755] - 2024-12-26 17:07:16,308 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 17:07:16,309 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:07:16,309 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 17:07:16,309 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 17:07:16,310 - INFO - Successfully removed file: ./u.exe.spec
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,031 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,031 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,031 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,031 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,032 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,032 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,032 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,032 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,032 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,032 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,033 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:08:36,034 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 17:08:42,652 - INFO - Retrieved filename: sad
+[builder.py:335] - 2024-12-26 17:08:42,653 - ERROR - Invalid webhook format: sdxfg
+[builder.py:505] - 2024-12-26 17:08:42,713 - INFO - Retrieved filename: sad
+[builder.py:564] - 2024-12-26 17:08:42,715 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:08:42,715 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:482] - 2024-12-26 17:08:42,715 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:564] - 2024-12-26 17:08:43,163 - INFO - Successfully changed config
+[builder.py:693] - 2024-12-26 17:08:43,164 - ERROR - Nuitka does not support Python 3.12
+[builder.py:764] - 2024-12-26 17:08:43,677 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:08:43,677 - INFO - Successfully removed file: luna.aes
+[builder.py:505] - 2024-12-26 17:09:05,997 - INFO - Retrieved filename: sad
+[builder.py:335] - 2024-12-26 17:09:05,997 - ERROR - Invalid webhook format: sdxfg
+[builder.py:505] - 2024-12-26 17:09:06,043 - INFO - Retrieved filename: sad
+[builder.py:564] - 2024-12-26 17:09:06,044 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:09:06,044 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 17:09:06,332 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 17:09:06,334 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 17:09:06,875 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 17:09:06,876 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 17:09:07,598 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T160918Z&X-Amz-Expires=300&X-Amz-Signature=1924375d2c6e04fad62ffd43add2a3675254a66eda6925a5e87bf6690589c9e6&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 17:09:44,898 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 17:09:44,987 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 17:09:45,046 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 17:09:45,107 - INFO - Successfully compiled sad.exe with pyinstaller
+[builder.py:755] - 2024-12-26 17:09:45,510 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 17:09:45,511 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 17:09:45,511 - INFO - Successfully removed file: ./sad.exe.spec
+[builder.py:764] - 2024-12-26 17:09:45,512 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:09:45,512 - INFO - Successfully removed file: luna.aes
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,063 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,063 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,063 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,063 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,063 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,063 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,064 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,064 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,064 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,064 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,064 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,064 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,064 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,064 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,064 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,065 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,065 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,065 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,065 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,065 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,065 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,065 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,065 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:11:55,065 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 17:12:02,164 - INFO - Retrieved filename: testt
+[builder.py:335] - 2024-12-26 17:12:02,165 - ERROR - Invalid webhook format: sdfsdfsdf
+[builder.py:505] - 2024-12-26 17:12:02,223 - INFO - Retrieved filename: testt
+[builder.py:564] - 2024-12-26 17:12:02,224 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:12:02,225 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 17:12:02,578 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 17:12:02,581 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 17:12:03,374 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 17:12:03,375 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 17:12:04,273 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T161216Z&X-Amz-Expires=300&X-Amz-Signature=ce06e15b49f099ec428c7cce3b5a508e648a3f52678bcfe693fe121c899a9e83&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 17:12:48,516 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 17:12:48,603 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 17:12:48,644 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 17:12:48,675 - INFO - Successfully compiled testt.exe with pyinstaller
+[builder.py:755] - 2024-12-26 17:12:48,764 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 17:12:48,765 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 17:12:48,765 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:12:48,766 - INFO - Successfully removed file: ./testt.exe.spec
+[builder.py:764] - 2024-12-26 17:12:48,766 - INFO - Successfully removed file: luna.aes
+[builder.py:505] - 2024-12-26 17:16:58,423 - INFO - Retrieved filename: testtt
+[builder.py:335] - 2024-12-26 17:16:58,423 - ERROR - Invalid webhook format: sdfsdfsdf
+[builder.py:505] - 2024-12-26 17:16:58,480 - INFO - Retrieved filename: testtt
+[builder.py:564] - 2024-12-26 17:16:58,481 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:16:58,482 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 17:16:58,913 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 17:16:58,915 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 17:16:59,458 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 17:16:59,459 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 17:17:00,121 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T161712Z&X-Amz-Expires=300&X-Amz-Signature=36b0a2e861087af66783a70984d674942aa1d69025f411350d2bb48afbefc238&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 17:17:44,838 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 17:17:44,920 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 17:17:44,979 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 17:17:45,030 - INFO - Successfully compiled testtt.exe with pyinstaller
+[builder.py:755] - 2024-12-26 17:17:45,915 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 17:17:45,915 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 17:17:45,916 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:17:45,916 - INFO - Successfully removed file: ./testtt.exe.spec
+[builder.py:764] - 2024-12-26 17:17:45,916 - INFO - Successfully removed file: luna.aes
+[builder.py:505] - 2024-12-26 17:18:48,131 - INFO - Retrieved filename: testtt
+[builder.py:335] - 2024-12-26 17:18:48,131 - ERROR - Invalid webhook format: sdfsdfsdf
+[builder.py:505] - 2024-12-26 17:18:48,785 - INFO - Retrieved filename: testtt
+[builder.py:564] - 2024-12-26 17:18:48,786 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:18:48,787 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 17:18:49,149 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 17:18:49,151 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 17:18:49,454 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 17:18:49,456 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 17:18:50,239 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T161712Z&X-Amz-Expires=300&X-Amz-Signature=36b0a2e861087af66783a70984d674942aa1d69025f411350d2bb48afbefc238&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 17:19:33,218 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 17:19:33,291 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 17:19:33,364 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 17:19:33,418 - INFO - Successfully compiled testtt.exe with pyinstaller
+[builder.py:755] - 2024-12-26 17:19:34,375 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 17:19:34,375 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 17:19:34,375 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:19:34,376 - INFO - Successfully removed file: ./testtt.exe.spec
+[builder.py:764] - 2024-12-26 17:19:34,376 - INFO - Successfully removed file: luna.aes
+[builder.py:505] - 2024-12-26 17:20:32,096 - INFO - Retrieved filename: testtt
+[builder.py:335] - 2024-12-26 17:20:32,096 - ERROR - Invalid webhook format: sdfsdfsdf
+[builder.py:505] - 2024-12-26 17:20:32,150 - INFO - Retrieved filename: testtt
+[builder.py:564] - 2024-12-26 17:20:32,151 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:20:32,151 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 17:20:32,480 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 17:20:32,481 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 17:20:32,966 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 17:20:32,967 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 17:20:33,583 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T162048Z&X-Amz-Expires=300&X-Amz-Signature=7f91fe18a187226841351d14d202303938df478043bff304a57f9f133330e0dc&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 17:21:11,161 - INFO - Removing MetaData
+[builder.py:744] - 2024-12-26 17:21:11,194 - ERROR - Error with compiling file: [Errno 13] Permission denied: './testtt.exe'
+[builder.py:755] - 2024-12-26 17:21:11,769 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 17:21:11,769 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 17:21:11,770 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:21:11,770 - INFO - Successfully removed file: ./testtt.exe.spec
+[builder.py:764] - 2024-12-26 17:21:11,770 - INFO - Successfully removed file: luna.aes
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,532 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,532 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,532 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,532 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,532 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,532 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,533 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,534 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,534 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,534 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:21:29,534 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 17:21:36,110 - INFO - Retrieved filename: fghfgh
+[builder.py:335] - 2024-12-26 17:21:36,110 - ERROR - Invalid webhook format: fhbfgh
+[builder.py:505] - 2024-12-26 17:21:36,151 - INFO - Retrieved filename: fghfgh
+[builder.py:564] - 2024-12-26 17:21:36,153 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:21:36,153 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 17:21:36,448 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 17:21:36,451 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 17:21:36,871 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 17:21:36,872 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 17:21:37,595 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T162048Z&X-Amz-Expires=300&X-Amz-Signature=7f91fe18a187226841351d14d202303938df478043bff304a57f9f133330e0dc&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 17:22:08,494 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 17:22:08,542 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 17:22:08,651 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 17:22:08,683 - INFO - Successfully compiled fghfgh.exe with pyinstaller
+[builder.py:755] - 2024-12-26 17:22:09,080 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 17:22:09,080 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 17:22:09,080 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:22:09,080 - INFO - Successfully removed file: ./fghfgh.exe.spec
+[builder.py:764] - 2024-12-26 17:22:09,080 - INFO - Successfully removed file: ./tools/upx.exe
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,200 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,201 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,201 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,201 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,201 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,201 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,202 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,202 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,202 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,202 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,202 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,202 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,202 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,203 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,203 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,203 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,203 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,203 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,203 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,203 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,203 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,204 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,204 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:24:13,204 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 17:24:19,548 - INFO - Retrieved filename: ertert
+[builder.py:335] - 2024-12-26 17:24:19,549 - ERROR - Invalid webhook format: t
+[builder.py:505] - 2024-12-26 17:24:19,646 - INFO - Retrieved filename: ertert
+[builder.py:564] - 2024-12-26 17:24:19,649 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:24:19,650 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:482] - 2024-12-26 17:24:19,650 - INFO - Changed filetype: nuitka (.exe)
+[builder.py:564] - 2024-12-26 17:24:20,168 - INFO - Successfully changed config
+[builder.py:693] - 2024-12-26 17:24:20,170 - ERROR - Nuitka does not support Python 3.12
+[builder.py:764] - 2024-12-26 17:24:21,132 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:24:21,133 - INFO - Successfully removed file: luna.aes
+[builder.py:505] - 2024-12-26 17:24:23,245 - INFO - Retrieved filename: ertert
+[builder.py:335] - 2024-12-26 17:24:23,245 - ERROR - Invalid webhook format: t
+[builder.py:505] - 2024-12-26 17:24:23,295 - INFO - Retrieved filename: ertert
+[builder.py:564] - 2024-12-26 17:24:23,296 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:24:23,296 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 17:24:23,591 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 17:24:23,593 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 17:24:23,980 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 17:24:23,981 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 17:24:24,747 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T162442Z&X-Amz-Expires=300&X-Amz-Signature=4bbc3bad52cde6fbf1f9453c3e7605278d0b8834558de76c1b90ac27444bb508&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 17:25:13,855 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 17:25:13,892 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 17:25:13,930 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 17:25:13,974 - INFO - Successfully compiled ertert.exe with pyinstaller
+[builder.py:755] - 2024-12-26 17:25:14,273 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 17:25:14,274 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:25:14,274 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 17:25:14,275 - INFO - Successfully removed file: ./ertert.exe.spec
+[builder.py:764] - 2024-12-26 17:25:14,275 - INFO - Successfully removed file: ./tools/upx.exe
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,914 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,914 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,914 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,915 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,915 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,915 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,915 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,915 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,915 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,916 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,916 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,916 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,916 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,916 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,916 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,916 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,916 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,917 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,917 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,917 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,917 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,917 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,917 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 17:26:46,917 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:505] - 2024-12-26 17:27:02,358 - INFO - Retrieved filename: iugi
+[builder.py:335] - 2024-12-26 17:27:02,359 - ERROR - Invalid webhook format: test
+[builder.py:505] - 2024-12-26 17:27:02,420 - INFO - Retrieved filename: iugi
+[builder.py:564] - 2024-12-26 17:27:02,422 - INFO - Successfully changed config
+[builder.py:482] - 2024-12-26 17:27:02,422 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:564] - 2024-12-26 17:27:02,824 - INFO - Successfully changed config
+[connectionpool.py:1049] - 2024-12-26 17:27:02,827 - DEBUG - Starting new HTTPS connection (1): github.com:443
+[connectionpool.py:544] - 2024-12-26 17:27:03,687 - DEBUG - https://github.com:443 "GET /upx/upx/releases/download/v4.2.4/upx-4.2.4-win64.zip HTTP/1.1" 302 0
+[connectionpool.py:1049] - 2024-12-26 17:27:03,689 - DEBUG - Starting new HTTPS connection (1): objects.githubusercontent.com:443
+[connectionpool.py:544] - 2024-12-26 17:27:04,581 - DEBUG - https://objects.githubusercontent.com:443 "GET /github-production-release-asset-2e65be/67031040/8d44b6a4-2c22-4e41-b581-be3e421c744e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241226T162729Z&X-Amz-Expires=300&X-Amz-Signature=12d3ef39fde995072c70ab18c3bd903e33ee6f44a58af0f058c40af7bb1dafcf&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dupx-4.2.4-win64.zip&response-content-type=application%2Foctet-stream HTTP/1.1" 200 613368
+[builder.py:854] - 2024-12-26 17:28:01,670 - INFO - Removing MetaData
+[builder.py:872] - 2024-12-26 17:28:01,773 - INFO - Renaming Entry Point
+[builder.py:886] - 2024-12-26 17:28:01,867 - INFO - Adding Certificate
+[builder.py:687] - 2024-12-26 17:28:01,927 - INFO - Successfully compiled iugi.exe with pyinstaller
+[builder.py:755] - 2024-12-26 17:28:02,880 - INFO - Successfully removed directory: ./build
+[builder.py:764] - 2024-12-26 17:28:02,880 - INFO - Successfully removed file: loader-o.py
+[builder.py:764] - 2024-12-26 17:28:02,881 - INFO - Successfully removed file: ./tools/upx.exe
+[builder.py:764] - 2024-12-26 17:28:02,881 - INFO - Successfully removed file: luna.aes
+[builder.py:764] - 2024-12-26 17:28:02,881 - INFO - Successfully removed file: ./iugi.exe.spec
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,624 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,625 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,625 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,625 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,625 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,625 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,625 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,625 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,625 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,626 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,626 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,626 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,626 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,626 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,626 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,626 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,626 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,626 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,626 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,626 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,626 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,627 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,627 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 18:00:39,627 - DEBUG - STREAM b'IDAT' 91 1063
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,843 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,843 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,843 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,844 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,844 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,844 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,844 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,844 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,844 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,844 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,844 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,845 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,845 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,845 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,845 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,845 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,845 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,845 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,845 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,845 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,845 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,846 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,846 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 18:53:24,846 - DEBUG - STREAM b'IDAT' 91 1063
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,287 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,289 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,289 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,290 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,290 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,290 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,290 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,290 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,290 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,292 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,292 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,292 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,292 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,292 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,293 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,293 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,293 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,293 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,293 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,295 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,295 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,295 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,295 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:198] - 2024-12-26 20:31:49,295 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.py:520] - 2024-12-26 20:32:09,264 - INFO - Retrieved filename: test_file
+[builder.py:350] - 2024-12-26 20:32:09,264 - ERROR - Invalid webhook format: test
+[builder.py:520] - 2024-12-26 20:32:09,312 - INFO - Retrieved filename: test_file
+[builder.py:579] - 2024-12-26 20:32:09,318 - INFO - Successfully changed config
+[builder.py:823] - 2024-12-26 20:32:09,434 - ERROR - Error with writing and obfuscating file: [WinError 2] Das System kann die angegebene Datei nicht finden: 'c:\\Users\\swiz\\Desktop\\Luna-Grabber-main\\Obfuscated_test_file.py' -> 'c:\\Users\\swiz\\Desktop\\Luna-Grabber-main\\test_file.py'
+[builder.py:497] - 2024-12-26 20:32:09,434 - INFO - Changed filetype: pyinstaller (.exe)
+[builder.py:759] - 2024-12-26 20:32:09,774 - ERROR - Error with compiling file: [Errno 2] No such file or directory: 'c:\\Users\\swiz\\Desktop\\Luna-Grabber-main\\test_file.py'
